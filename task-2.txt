@@ -1,4 +1,36 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:250542010
+AD-SOYAD:Muhammet Yasir Çelik
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+
+Sayı Tahmin Oyununda Optimal Strateji
+
+Başla
+1. Oyunun kurallarını belirle:
+    a. Tahmin edilecek sayı aralığı (min, max)
+    b. Tahmin hakkı sayısı (isteğe bağlı)
+
+2. Tahmin aralığını başlat:
+    a. Alt sınır = min
+    b. Üst sınır = max
+
+3. Tahmin döngüsü başlat:
+    a. Orta değeri seç (Tahmin = (Alt + Üst) / 2)
+    b. Tahminini yap
+
+    c. Eğer (Tahmin doğru ise):
+        i. Oyunu kazan
+        ii. Döngüyü bitir
+
+    d. Eğer (Tahmin sayıdan küçük ise):
+        i. Alt sınırı Tahmin + 1 olarak güncelle
+
+    e. Eğer (Tahmin sayıdan büyük ise):
+        i. Üst sınırı Tahmin - 1 olarak güncelle
+
+4. Eğer tahmin hakkı biterse:
+    a. Oyunu kaybet
+
+5. Döngü devam ettiği sürece adım 3’ü tekrarla
+
+Bitir

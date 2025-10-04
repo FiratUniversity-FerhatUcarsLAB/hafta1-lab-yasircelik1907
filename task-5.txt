@@ -1,4 +1,61 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No: 250542010
+AD-SOYAD: Muhammet Yasir Çelik
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+
+Başla
+1. Hedef platformu seç
+    a. Instagram, TikTok, Twitter, X, Threads, vs.
+    b. Not: TikTok daha hızlı viral olur (kaynak: efsaneler)
+
+2. Viral içerik türünü belirle
+    a. Mizah, dans, challenge, eğitici içerik, kedi/meme/troll
+    b. Eğer mizah seçildiyse:
+        i. Absürd ve beklenmedik bir olay ekle
+        ii. Minimal metin, maksimum etki
+
+3. İçerik hazırlığı
+    a. Kamera veya ekran kaydı hazırla
+    b. Gereksiz filtreleri abartma (viral = doğal ama ışıklı)
+    c. Ses veya müzik seçimi:
+        i. Trend müzikleri kullan
+        ii. Eğer trend müzik yoksa, kendi sesini aşırı dramatik yapabilirsin
+    d. Thumbnail / ön izleme seçimi:
+        i. İnsanların dikkatini çeken renk + şaşkın yüz kombinasyonu
+
+4. Yayın zamanı belirle
+    a. En aktif kullanıcı saatlerini öğren (gece 02:00 hariç, kimse o saatte izlemiyor)
+    b. Zamanı platform algoritmasına göre optimize et
+
+5. Hashtag ve açıklama stratejisi
+    a. Trend hashtagleri kullan (#viral #komik #buolacak)
+    b. Azıcık gizem bırak (“Bunu gördükten sonra gülmemek imkansız!”)
+    c. Eğer mizah içerikliyse, bir tık abartılı emoji ekle
+
+6. Yayınla ve ilk etkileşimi topla
+    a. Kanka, ilk 30 dakika çok önemli → arkadaşları etiketle, kendi hesabından paylaş
+    b. Eğer ilk 30 dakika iyi performans gösterirse:
+        i. Platform algoritması içeriklerini daha çok kişiye gösterir
+    c. Eğer kötü performans gösterirse:
+        i. Panik yapma, bir sonraki içeriği hazırla
+
+7. Viral etkileşim döngüsü (loop)
+    a. Kullanıcı yorumlarını oku
+    b. Yanıt ver veya mizahi şekilde tekrar paylaş
+    c. Mem, remix, duet, reaction gibi interaktif içeriklerle tekrar paylaş
+    d. Adım 7’i hedef kitle etkileşimi maksimum olana kadar tekrarla
+
+8. Ölçümleme ve optimize et
+    a. Hangi içerik daha çok izlendi, hangisi daha çok paylaşıldı?
+    b. Başarılı içeriklerin mantığını not al
+    c. Başarısız içeriklerden ders çıkar
+
+9. Sürekli trendleri takip et
+    a. Eğer trend değişirse, hızlı adaptasyon yap
+    b. Eğer viral bir challenge başlarsa, kendi absürd yorumunu ekle
+
+10. Bonus adım – Kanka altın kural
+    a. Her zaman eğlen, kendini ciddiye alma
+    b. Mizah ve yaratıcılık = viral içeriklerin temel yakıtı
+
+Bitir

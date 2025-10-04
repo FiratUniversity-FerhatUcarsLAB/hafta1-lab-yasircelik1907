@@ -1,4 +1,47 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No: 250542010
+AD-SOYAD: Muhammet Yasir Çelik
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+
+Renkleri Karıştırarak Hedef Rengi Bulmak : 
+
+Başla
+1. Hedef rengi belirle (örn: turuncu, mor, açık mavi)
+2. Kullanılacak ana renkleri hazırla:
+    a. Kırmızı
+    b. Mavi
+    c. Sarı
+    d. Beyaz (açma için)
+    e. Siyah (koyulaştırma için)
+
+3. Tuval veya karıştırma kabını hazırla
+4. İlk karışımı başlat:
+    a. İhtiyaç duyulan temel renkleri al
+    b. Küçük miktarlarda karıştır
+
+5. Karışımı test et:
+    a. Hedef renkle karşılaştır
+    b. Eğer renk hedeften koyu ise:
+        i. Biraz beyaz ekle
+    c. Eğer renk hedeften açık ise:
+        i. Biraz koyu renk ekle (siyah veya ana renk)
+    d. Eğer renk hedeften fazla kırmızı ise:
+        i. Mavi veya sarı ekleyerek dengele
+    e. Eğer renk hedeften fazla mavi ise:
+        i. Kırmızı veya sarı ekle
+    f. Eğer renk hedeften fazla sarı ise:
+        i. Kırmızı veya mavi ekle
+
+6. Karışımı tekrar test et ve gerekiyorsa adım 5’i tekrarla
+    → Bu bir **loop** mantığıdır, hedef renk yakalanana kadar devam eder
+
+7. Hedef renk elde edildiğinde:
+    a. Son karışımı kaydet veya kullan
+    b. Karışımı tuvalde uygula veya boya kabında sakla
+
+8. İşlem tamamlandığında:
+    a. Fırçayı veya karıştırma aracını temizle
+    b. Malzemeleri yerine koy
+    c. Tuvali temizle (isteğe bağlı)
+
+Bitir

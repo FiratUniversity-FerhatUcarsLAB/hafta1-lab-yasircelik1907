@@ -1,4 +1,39 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No: 250542010
+AD-SOYAD: Muhammet Yasir Çelik
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+
+Telefon Rehberini Alfabetik Düzenleme : 
+
+Başla
+1. Telefonu aç
+2. Rehber uygulamasını aç
+3. Rehberi yükle (Rehber = [İsim1, İsim2, ...])
+4. Eğer rehber boş ise:
+    a. "Rehberde kişi yok" mesajını göster
+    b. Telefonu kilitle ve bitir
+
+5. Rehber boş değilse:
+    a. Rehberdeki isimleri tek tek kontrol et
+    b. Her ismi alfabetik sıraya göre yerleştir
+        i. A’dan Z’ye karşılaştır
+        ii. İsimleri küçükten büyüğe sırala
+        iii. Tüm isimler sıralanana kadar adım 5’i tekrarla (loop)
+
+6. Sıralama tamamlandığında:
+    a. Sıralı rehberi ekranda göster
+    b. Her ismi tek tek satır satır yazdır
+
+7. Kullanıcı yeni isim eklemek isterse:
+    a. "Yeni isim girin" mesajını göster
+    b. Kullanıcıdan isim al
+    c. İsmi rehbere ekle
+    d. Adım 5’i tekrar et (alfabetik sıralama)
+    e. Güncellenmiş rehberi göster
+
+8. İşlem tamamlandığında:
+    a. Rehberi kaydet
+    b. Rehber uygulamasını kapat
+    c. Telefonu kilitle
+
+Bitir

@@ -1,4 +1,78 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No: 250542010
+AD-SOYAD: Muhammet Yasir Çelik
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+
+Optimum Bütçeli Market Alışverişi : 
+
+Başla
+1. Toplam bütçeyi belirle (Bütçe)
+2. Hava durumuna bak
+
+3. Eğer (hava güzelse) ise:
+    A. Dışarı çıkmaya karar ver
+
+    B. Giyinme ve hazırlık:
+        1. Ayakkabıları giy
+        2. Montu giy
+        3. Gerekirse şapka ve güneş gözlüğünü tak
+        4. Cüzdan ve market listeni kontrol et
+        5. Telefonu cepte/çantada kontrol et
+        6. Anahtarları al
+
+    C. Daireden çıkış (mikro adımlar):
+        1. Daire kapısını aç
+        2. Daire kapısını kapat
+        3. Daire kapısını kilitle (varsa)
+        4. Apartman/koridor kapısına yönel
+        5. Apartman kapısını aç (anahtar / kart / zil kullan)
+        6. Apartman kapısını kapat
+        7. Apartman kapısını kilitle (varsa otomatık kilit kontrolü)
+
+    D. Dışarı çıkış ve yol:
+        1. Merdivenlerden in (veya asansöre bin)
+        2. Sokakta yürümeye başla
+        3. Market yolunu seç (en kısa veya en güvenli)
+        4. Güvenlik / trafik kurallarına dikkat et
+
+4. Market listesi oluştur (ÜrünAdı, Fiyat, Öncelik)
+5. Harcanan toplamı sıfırla (Harcanan = 0)
+6. Alınan ürünler listesini boş olarak başlat (AlinanUrunler = [])
+
+7. Ürün listesinde her bir ürün için döngü başlat:
+    a. Eğer (Harcanan + Ürün.Fiyat <= Bütçe) ise:
+        i. Ürünü AlinanUrunler listesine ekle
+        ii. Harcanan += Ürün.Fiyat
+    b. Değilse:
+        i. Ürünü atla / sonraki ürüne geç
+
+8. Döngü tamamlandığında:
+    a. AlinanUrunler listesini göster
+    b. Harcanan toplam ve kalan bütçeyi göster
+
+9. Marketten çıkış (dönüş hazırlığı):
+    a. Poşetleri/çantayı kontrol et
+    b. Market fişini kontrol et (isteğe bağlı)
+
+10. Eve dönüş (mikro adımlar):
+    a. Sokakta yürü
+    b. Merdivenlerden çık (veya asansör)
+    c. Apartman kapısına gel
+    d. Apartman kapısını aç
+    e. Apartman kapısını kapat
+    f. Apartman kapısını kilitle (varsa)
+    g. Daire kapısına gel
+    h. Daire kapısını aç
+    i. Daire kapısını kapat
+    j. Daire kapısını kilitle (isteğe bağlı; içeri girince açıp kilidi sonradan kapat)
+
+11. Eve giriş sonrası:
+    a. Ayakkabıları ve montu çıkar
+    b. Ürünleri mutfağa veya dolaba yerleştir
+    c. Harcamayı kaydet (isteğe bağlı)
+
+12. Eğer (hava kötü ise) :
+    a. Evde kalmaya karar ver
+    b. Online market veya evdeki stoklara göre alışveriş planla
+
+Bitir
